@@ -1,6 +1,6 @@
 # Home Assistant Integration - Home Assistant Utilities
 
-Home Assistant Utilities integration for [Home Assistant](https://www.home-assistant.io/). 
+Home Assistant Utilities integration for [Home Assistant](https://www.home-assistant.io/).
 
 ## Installation
 
