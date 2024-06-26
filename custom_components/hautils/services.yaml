@@ -1,0 +1,9 @@
+list_integrations_core:
+  name: List Integrations
+  description: >-
+    List all loaded integrations.
+
+list_integrations_custom:
+  name: List Custom Integrations
+  description: >-
+    List all loaded custom integrations.
