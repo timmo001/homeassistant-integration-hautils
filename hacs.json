@@ -1,0 +1,6 @@
+{
+  "name": "Home Assistant Utilities",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "hautils.zip"
+}
