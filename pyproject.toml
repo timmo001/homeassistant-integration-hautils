@@ -4,13 +4,12 @@ version = "0.0.0"
 description = "Home Assistant Utilities integration for Home Assistant"
 authors = ["Aidan Timson <aidan@timmo.dev>"]
 maintainers = ["Aidan Timson <aidan@timmo.dev>"]
-license = "MIT"
+license = "Apache 2.0"
 readme = "README.md"
 homepage = "https://github.com/timmo001/homeassistant-integration-hautils"
 repository = "https://github.com/timmo001/homeassistant-integration-hautils"
 documentation = "https://github.com/timmo001/homeassistant-integration-hautils"
 classifiers = [
-  "Framework :: AsyncIO",
   "Natural Language :: English",
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: 3",
@@ -19,14 +18,11 @@ packages = []
 
 [tool.poetry.dependencies]
 python = "^3.12"
-homeassistant = "^2023.3"
+homeassistant = "^2023.6"
 
 [tool.poetry.group.dev.dependencies]
-black = "24.3.0"
 hass-nabucasa = "0.67.1"
-pre-commit = "3.3.1"
-pre-commit-hooks = "4.4.0"
-pylint = "2.17.3"
+pylint = "3.2.4"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/timmo001/homeassistant-integration-hautils/issues"
